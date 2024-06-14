@@ -1,6 +1,6 @@
 # Projekt zaliczeniowy "Sklep" - Programowanie Obiekotwe
 
-![Preview](gif_boży.gif)
+![Preview](gif.gif)
 
 ## Opis
 Projekt zaliczeniowy z przedmiotu Programowanie Obiektowe.
